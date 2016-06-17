@@ -19,7 +19,7 @@
 ![](http://latex.codecogs.com/gif.latex?f_y=-kv_y)
 同样可以用欧拉法来解决，因为是二阶微分方程，我们可以把二阶微分方程分解为两个一阶微分方程，参考书上给出的方程，进行在五空气阻力和有空气阻力时依据角度的不同进行对比。
 
-![程序](https://github.com/thy714038104/computationalphysics_N2013301020091/blob/master/ex6/bullet.py)
+[程序](https://github.com/thy714038104/computationalphysics_N2013301020091/blob/master/ex6/bullet.py)
 ##图像
 27度的情况：  
 ![27](https://raw.githubusercontent.com/thy714038104/computationalphysics_N2013301020091/master/ex6/27.png)  
