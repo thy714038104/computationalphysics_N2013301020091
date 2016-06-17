@@ -9,6 +9,7 @@
     print 'hello world'
     print "I could have code like this." # and the comment after is ignored
 ```
+##[EX5](https://github.com/thy714038104/computationalphysics_N2013301020091/blob/master/ex5/ex5.md)
 ##[EX6](https://github.com/thy714038104/computationalphysics_N2013301020091/blob/master/ex6/ex6.md)
 ##[EX7](https://github.com/thy714038104/computationalphysics_N2013301020091/blob/master/ex7/ex7.md)
 ##[EX8](https://github.com/thy714038104/computationalphysics_N2013301020091/blob/master/ex8/ex8.md)
