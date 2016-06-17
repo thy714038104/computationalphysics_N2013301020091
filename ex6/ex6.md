@@ -1,4 +1,4 @@
-# Homework5
+﻿# Homework5
 
 炮弹运动轨迹；考虑阻力
 
@@ -19,14 +19,14 @@
 ![](http://latex.codecogs.com/gif.latex?f_y=-kv_y)
 同样可以用欧拉法来解决，因为是二阶微分方程，我们可以把二阶微分方程分解为两个一阶微分方程，参考书上给出的方程，进行在五空气阻力和有空气阻力时依据角度的不同进行对比。
 
-![程序](https://github.com/thy714038104/computationalphysics_N2013301020091/blob/master/ex5/bullet.py)
+![程序](https://github.com/thy714038104/computationalphysics_N2013301020091/blob/master/ex6/bullet.py)
 ##图像
 27度的情况：  
-![27](https://raw.githubusercontent.com/thy714038104/computationalphysics_N2013301020091/master/ex5/27.png)  
+![27](https://raw.githubusercontent.com/thy714038104/computationalphysics_N2013301020091/master/ex6/27.png)  
 45度的情况：  
-![45](https://raw.githubusercontent.com/thy714038104/computationalphysics_N2013301020091/master/ex5/27.png)  
+![45](https://raw.githubusercontent.com/thy714038104/computationalphysics_N2013301020091/master/ex6/27.png)  
 63度的情况：  
-![63](https://raw.githubusercontent.com/thy714038104/computationalphysics_N2013301020091/master/ex5/63.png)  
+![63](https://raw.githubusercontent.com/thy714038104/computationalphysics_N2013301020091/master/ex6/63.png)  
 ##结论：
 从图中可以看出在无空气阻力时，当发射角为45°是射程最远，存在空气阻力的情况下，炮弹射程与不存在空气阻力相差很多。在对称的发射角下，角度越小，受到空气阻力的影响越小。
 ##致谢
