@@ -13,8 +13,16 @@
 ![](http://latex.codecogs.com/gif.latex?dv_z/dt=-S_0v_xw/m)  
 给定几个初始条件来观察棒球的运动。  
 方程组的参数设定为:![](http://latex.codecogs.com/gif.latex?S0/m%20%3D%204.1*10%20%5E%7B-4%7DB_2/m%20%3D%200.039&plus;0.058/%281&plus;exp%28%28v-vd%29/delta%29%29)  
-给定几个初始条件来观察棒球的运动： 
-
+给定几个初始条件来观察棒球的运动：   
+[程序](https://raw.githubusercontent.com/thy714038104/computationalphysics_N2013301020091/master/ex7/10.py)  
+1.设定vx = 5m/s ,vy = 50m/s ,得出轨迹图如下  
+![5.50](https://raw.githubusercontent.com/thy714038104/computationalphysics_N2013301020091/master/ex7/5.50.png)  
+2.设定vx = 10m/s ,vy = 100m/s ,得出轨迹图如下  
+![10.100](https://raw.githubusercontent.com/thy714038104/computationalphysics_N2013301020091/master/ex7/10.100.png)  
+3.设定vx = 10m/s ,vy = 1000m/s ,得出轨迹图如下  
+![10.1000](https://raw.githubusercontent.com/thy714038104/computationalphysics_N2013301020091/master/ex7/10.1000.png)   
+4.设定vx = 10m/s ,vy = 2500m/s ,得出轨迹图如下  
+![10.2500](https://raw.githubusercontent.com/thy714038104/computationalphysics_N2013301020091/master/ex7/10.2500.png)
 ##结论
 当![](http://latex.codecogs.com/gif.latex?v_y)更大时，计算机无法计算。从上面的几幅图对比，发现当![](http://latex.codecogs.com/gif.latex?v_y)较小时，沿着坐标轴的负方向运动，当![](http://latex.codecogs.com/gif.latex?v_y>1000m/s)时，沿着坐标轴的正方向运动。
 数值计算出棒球轨迹的结果感觉有点奇怪，在y轴方向与我的想法不太符合。
