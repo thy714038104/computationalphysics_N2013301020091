@@ -15,4 +15,4 @@
 ##[EX7](https://github.com/thy714038104/computationalphysics_N2013301020091/blob/master/ex7/ex7.md)
 ##[EX8](https://github.com/thy714038104/computationalphysics_N2013301020091/blob/master/ex8/ex8.md)
 ##[EX9](https://github.com/thy714038104/computationalphysics_N2013301020091/blob/master/ex9/ex9.md)
-##[EX10](https://github.com/thy714038104/computationalphysics_N2013301020091/blob/master/ex10/exEX10.md)
+##[EX10](https://github.com/thy714038104/computationalphysics_N2013301020091/blob/master/ex10/EX10.md)
